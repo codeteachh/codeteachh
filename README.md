@@ -12,7 +12,7 @@
 
 <code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3rwor81L81N7K47Kyx5uvMIU5UD6KTUhmf7MAHHH1pAiJmzfcBGpU0C138HcnSZQy1Go&usqp=CAU" width="30px"></code>
 <code><img src="https://d1wrxu8gicsgam.cloudfront.net/wp-content/files/django-logo-big.jpg" width="30px"></code>
-<code><img src="hhttps://storage.caktusgroup.com/media/blog-images/drf-logo2.png" width="30px"></code>
+<code><img src="https://soshace.com/wp-content/uploads/2021/01/879-png-3.png" width="30px"></code>
 <code><img src="https://1000logos.net/wp-content/uploads/2021/05/GitHub-logo.png" width="30px"></code>
 <code><img src="https://git-scm.com/images/logos/1color-lightbg@2x.png" width="30px"></code>
 
