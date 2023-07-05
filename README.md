@@ -20,4 +20,4 @@
 
 - 📍 &nbsp; Current location: Uzbekistan Anywhere
 - 📝&nbsp; Ask me about anything, I am happy to help
-- 📨&nbsp; How to reach me: [@sevdiyor_7170_](https://instagram.com/sevdiyor_7170/)
+- 📨&nbsp; How to reach me: [@sevdiyor_7170](https://instagram.com/sevdiyor_7170/)
