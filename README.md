@@ -10,7 +10,7 @@
 
 ### Languages and tools I work with:
 
-<code><img src="https://logowik.com/content/uploads/images/python.jpg" width="30px"></code>
+<code><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3rwor81L81N7K47Kyx5uvMIU5UD6KTUhmf7MAHHH1pAiJmzfcBGpU0C138HcnSZQy1Go&usqp=CAU" width="30px"></code>
 <code><img src="https://batflat.org/themes/default/img/css-logo.png" width="20px"></code>
 <code><img src="https://sass-lang.com/assets/img/styleguide/white-e44bed0d.png" width="30px"></code>
 <code><img src="https://icon-library.com/images/b-icon/b-icon-0.jpg" width="30px"></code>
